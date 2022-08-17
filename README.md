@@ -26,8 +26,8 @@
 I'm interesting in <b>competitive programming</b>, <b>machine learning</b>, <b>mobile</b>, <b>game and web development</b>.</p>
 <br><p align="center">
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/luciano-claudio/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/IIQumJw1)(https://github.com/Luciano-Claudio)
-
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/IIQumJw1)
+      
 </p>
   </td>
   <tr>
