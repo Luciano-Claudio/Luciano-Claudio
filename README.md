@@ -38,7 +38,7 @@ I'm interesting in <b>competitive programming</b>, <b>machine learning</b>, <b>m
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Luciano-Claudio&show_icons=true&theme=onedark&locale=en" alt="Luciano-Claudio" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Luciano-Claudio&show_icons=true&theme=onedark&locale=en](https://github-readme-stats.vercel.app/api?username=Luciano-Claudio&show_icons=true&theme=tokyonight" alt="Luciano-Claudio" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
